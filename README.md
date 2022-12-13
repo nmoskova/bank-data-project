@@ -13,7 +13,6 @@ Load - importing the above described 3 tables in PostgreSQL and creating three a
     1. client_accounts;
     2. clients;
     3. clients_by_age_groups ,
-    
     inserting data into them and making some data queries to the DB.
  
  
