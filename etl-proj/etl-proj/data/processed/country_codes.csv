@@ -1,0 +1,199 @@
+,country_code,country,code
+0,AFG,Afghanistan,AFN
+1,ALB,Albania,ALL
+2,DZA,Algeria,DZD
+3,ASM,American samoa,USD
+4,AND,Andorra,EUR
+5,AGO,Angola,AOA
+6,AIA,Anguilla,XCD
+7,ATG,Antigua and barbuda,XCD
+8,ARG,Argentina,ARS
+9,ARM,Armenia,AMD
+10,ABW,Aruba,AWG
+11,AUS,Australia,AUD
+12,AUT,Austria,EUR
+13,AZE,Azerbaijan,AZN
+14,BHS,Bahamas,BSD
+15,BHR,Bahrain,BHD
+16,BGD,Bangladesh,BDT
+17,BRB,Barbados,BBD
+18,BLR,Belarus,BYR
+19,BEL,Belgium,EUR
+20,BLZ,Belize,BZD
+21,BEN,Benin,XOF
+22,BMU,Bermuda,BMD
+23,BTN,Bhutan,BTN
+24,BIH,Bosnia and herzegovina,BAM
+25,BWA,Botswana,BWP
+26,BRA,Brazil,BRL
+27,IOT,British indian ocean territory,USD
+28,BGR,Bulgaria,BGN
+29,BFA,Burkina faso,XOF
+30,BDI,Burundi,BIF
+31,KHM,Cambodia,KHR
+32,CMR,Cameroon,XAF
+33,CAN,Canada,CAD
+34,CPV,Cabo verde,CVE
+35,CYM,Cayman islands,KYD
+36,CAF,Central african republic,XAF
+37,TCD,Chad,XAF
+38,CHL,Chile,CLF
+39,CHN,China,CNY
+40,CXR,Christmas island,AUD
+41,COL,Colombia,COP
+42,COM,Comoros,KMF
+43,COG,Congo,XAF
+44,COK,Cook islands,NZD
+45,CRI,Costa rica,CRC
+46,HRV,Croatia,HRK
+47,CUB,Cuba,CUC
+48,CYP,Cyprus,EUR
+49,DNK,Denmark,DKK
+50,DJI,Djibouti,DJF
+51,DMA,Dominica,XCD
+52,DOM,Dominican republic,DOP
+53,ECU,Ecuador,USD
+54,EGY,Egypt,EGP
+55,SLV,El salvador,SVC
+56,GNQ,Equatorial guinea,XAF
+57,ERI,Eritrea,ERN
+58,EST,Estonia,EUR
+59,ETH,Ethiopia,ETB
+60,FJI,Fiji,FJD
+61,FIN,Finland,EUR
+62,FRA,France,EUR
+63,PYF,French polynesia,XPF
+64,GAB,Gabon,XAF
+65,GMB,Gambia,GMD
+66,GEO,Georgia,GEL
+67,DEU,Germany,EUR
+68,GHA,Ghana,GHS
+69,GIB,Gibraltar,GIP
+70,GRC,Greece,EUR
+71,GRL,Greenland,DKK
+72,GRD,Grenada,XCD
+73,GUM,Guam,USD
+74,GTM,Guatemala,GTQ
+75,GGY,Guernsey,GBP
+76,GIN,Guinea,GNF
+77,GNB,Guinea-bissau,XOF
+78,GUY,Guyana,GYD
+79,HTI,Haiti,HTG
+80,HND,Honduras,HNL
+81,HKG,Hong kong,HKD
+82,HUN,Hungary,HUF
+83,ISL,Iceland,ISK
+84,IND,India,INR
+85,IDN,Indonesia,IDR
+86,IRQ,Iraq,IQD
+87,IRL,Ireland,EUR
+88,IMN,Isle of man,GBP
+89,ISR,Israel,ILS
+90,ITA,Italy,EUR
+91,JAM,Jamaica,JMD
+92,JPN,Japan,JPY
+93,JEY,Jersey,GBP
+94,JOR,Jordan,JOD
+95,KAZ,Kazakhstan,KZT
+96,KEN,Kenya,KES
+97,KIR,Kiribati,AUD
+98,KWT,Kuwait,KWD
+99,KGZ,Kyrgyzstan,KGS
+100,LVA,Latvia,EUR
+101,LBN,Lebanon,LBP
+102,LSO,Lesotho,LSL
+103,LBR,Liberia,LRD
+104,LBY,Libya,LYD
+105,LIE,Liechtenstein,CHF
+106,LTU,Lithuania,EUR
+107,LUX,Luxembourg,EUR
+108,MAC,Macao,MOP
+109,MDG,Madagascar,MGA
+110,MWI,Malawi,MWK
+111,MYS,Malaysia,MYR
+112,MDV,Maldives,MVR
+113,MLI,Mali,XOF
+114,MLT,Malta,EUR
+115,MHL,Marshall islands,USD
+116,MRT,Mauritania,MRO
+117,MUS,Mauritius,MUR
+118,MYT,Mayotte,EUR
+119,MEX,Mexico,MXN
+120,MCO,Monaco,EUR
+121,MNG,Mongolia,MNT
+122,MNE,Montenegro,EUR
+123,MSR,Montserrat,XCD
+124,MAR,Morocco,MAD
+125,MOZ,Mozambique,MZN
+126,MMR,Myanmar,MMK
+127,NAM,Namibia,NAD
+128,NRU,Nauru,AUD
+129,NPL,Nepal,NPR
+130,NLD,Netherlands,EUR
+131,NCL,New caledonia,XPF
+132,NZL,New zealand,NZD
+133,NIC,Nicaragua,NIO
+134,NER,Niger,XOF
+135,NGA,Nigeria,NGN
+136,NIU,Niue,NZD
+137,MNP,Northern mariana islands,USD
+138,NOR,Norway,NOK
+139,OMN,Oman,OMR
+140,PAK,Pakistan,PKR
+141,PLW,Palau,USD
+142,PAN,Panama,PAB
+143,PNG,Papua new guinea,PGK
+144,PRY,Paraguay,PYG
+145,PER,Peru,PEN
+146,PHL,Philippines,PHP
+147,POL,Poland,PLN
+148,PRT,Portugal,EUR
+149,PRI,Puerto rico,USD
+150,QAT,Qatar,QAR
+151,ROU,Romania,RON
+152,RWA,Rwanda,RWF
+153,LCA,Saint lucia,XCD
+154,WSM,Samoa,WST
+155,SMR,San marino,EUR
+156,SAU,Saudi arabia,SAR
+157,SEN,Senegal,XOF
+158,SRB,Serbia,RSD
+159,SYC,Seychelles,SCR
+160,SLE,Sierra leone,SLL
+161,SGP,Singapore,SGD
+162,SVK,Slovakia,EUR
+163,SVN,Slovenia,EUR
+164,SLB,Solomon islands,SBD
+165,SOM,Somalia,SOS
+166,ZAF,South africa,ZAR
+167,SSD,South sudan,SSP
+168,ESP,Spain,EUR
+169,LKA,Sri lanka,LKR
+170,SDN,Sudan,SDG
+171,SUR,Suriname,SRD
+172,SJM,Svalbard and jan mayen,NOK
+173,SWE,Sweden,SEK
+174,CHE,Switzerland,CHF
+175,TJK,Tajikistan,TJS
+176,THA,Thailand,THB
+177,TLS,Timor-leste,USD
+178,TGO,Togo,XOF
+179,TKL,Tokelau,NZD
+180,TON,Tonga,TOP
+181,TTO,Trinidad and tobago,TTD
+182,TUN,Tunisia,TND
+183,TUR,Turkey,TRY
+184,TKM,Turkmenistan,TMT
+185,TUV,Tuvalu,AUD
+186,UGA,Uganda,UGX
+187,UKR,Ukraine,UAH
+188,ARE,United arab emirates,AED
+189,GBR,United kingdom,GBP
+190,USA,United states,USD
+191,URY,Uruguay,UYU
+192,UZB,Uzbekistan,UZS
+193,VUT,Vanuatu,VUV
+194,ESH,Western sahara,MAD
+195,YEM,Yemen,YER
+196,ZMB,Zambia,ZMW
+197,ZWE,Zimbabwe,ZWL
