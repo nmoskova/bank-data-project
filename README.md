@@ -1,7 +1,7 @@
 # bank-data-project
 ETL project using Pandas/BeautifulSoup/SQL/PosgreSQL
 
-Extract - extracting data from three sources - 2 different web-sites using requests and BeautifulSoup and 
+Extract - extracting data from three sources - 2 different web-sites, using requests and BeautifulSoup, and 
                                                a REST API https://apilayer.com/ through requests
 
 Transform - modifying the data with Pandas into the desired format, creating three tables: 
